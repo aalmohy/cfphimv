@@ -1,5 +1,5 @@
 CFPHIMV Carath\'eodory--Fej\'er Rational Approximations of φ-Functions.
- It computes  w = sum_{j=0}^p φ_j(A) v_j using shared-pole partial fractions.
+ It computes  the linear combination w = sum_{j=0}^p φ_j(A) v_j using shared-pole partial fractions.
 
 
  Reference:
