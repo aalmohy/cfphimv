@@ -5,5 +5,5 @@ CFPHIMV Carath\'eodory--Fej\'er Rational Approximations of φ-Functions.
  Reference:
 
   Awad H. Al-Mohy, Shared-Pole Carath\'eodory--Fej\'er Approximations 
-         for Linear Combinations of φ-Functions, 2025.
-
+         for Linear Combinations of φ-Functions, Mathematics 2025, 13(24), 3985; 
+         https://doi.org/10.3390/math13243985
